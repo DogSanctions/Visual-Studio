@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Favorite_Music_web</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="wwwroot\Pages\Error.cshtml.cs" />
+    <Compile Include="wwwroot\Pages\HomeController.cs" />
+    <Compile Include="wwwroot\Pages\Index.cshtml.cs" />
+    <Compile Include="wwwroot\Pages\Privacy.cshtml.cs" />
+  </ItemGroup>
+
+</Project>

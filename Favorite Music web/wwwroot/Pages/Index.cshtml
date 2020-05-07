@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Ice Cold</h1>
+    <p>By Lil Tjay</p>
+</div>
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ice Cold</title>
+</head>
+<body>
+    <input type="text" id="YoutubeUrl" style="width:0px" />
+    <input type="button" id="PlayVideo" value="Play" />
+    <hr />
+    <iframe id="YouTubevideo" width="420" height="315"
+            frameborder="0" style="display:none"
+            allowfullscreen></iframe>
+    <script type="text/javascript"
+            src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">
+        $("body").on("click", "#PlayVideo", function () {
+            var url = $("#YoutubeUrl").val();
+            url = url.split('v=')[1];
+            $("#YouTubevideo")[0].src = "//www.youtube.com/embed/watch?v=Km1nTzi0TdU&list=RDKm1nTzi0TdU&start_radio=1&t=0" +
+                url;
+            $("#YouTubevideo").show();
+        });
+    </script>
+    <br />
+    <button onclick="myMove()">Click Me</button>
+
+    <div id="contain">
+        <div id="animate"></div>
+    </div>
+</body>
+</html>

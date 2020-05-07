@@ -1,0 +1,37 @@
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.exe
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.deps.json
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.runtimeconfig.json
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.dll
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.pdb
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.Views.dll
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\bin\Debug\netcoreapp3.1\Favorite Music web.Views.pdb
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.RazorAssemblyInfo.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.RazorAssemblyInfo.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.AssemblyInfo.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.TagHelpers.input.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.TagHelpers.output.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.RazorCoreGenerate.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.RazorTargetAssemblyInfo.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.RazorTargetAssemblyInfo.cs
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.Views.pdb
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\staticwebassets\Favorite Music web.StaticWebAssets.Manifest.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\staticwebassets\Favorite Music web.StaticWebAssets.xml
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.dll
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.pdb
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.genruntimeconfig.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.csproj.CopyComplete
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Favorite Music\Favorite Music web\obj\Debug\netcoreapp3.1\Favorite Music web.MvcApplicationPartsAssemblyInfo.cache
